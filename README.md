@@ -15,6 +15,15 @@ Foi pedido um programa que calcula os **Juros** e **Multas** de uma pessoa pelo 
 - A multa deve ser adicionada caso atrase o dia de pagamento;
 - O juros(2%) será aumentado a cada dia atrasado;
 
+### 📋 Critérios avaliados
+
+1. Utilização de encapsulamento;
+2. Boas práticas da programação orientada a objetos;
+3. **NÃO É PERMITIDO** o uso de `ArrayList` ou `List`, a manipulação dos arrays deve ser feita de forma 'vanilla';
+4. Interpretação do problema e a resolução;
+5. **NÃO É PERMITIDO** o uso de códigos de terceiros, a resolução deve ser sua;
+6. Alunos com lógicas similares e resultados idênticos, terão a avaliação 0;
+
 ## 🎯 Dependências para rodar a aplicação
 
 - `Java 11.0 +`
